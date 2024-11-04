@@ -1,4 +1,4 @@
-# an explorable 2d world generator
+# Explorable 2D World Generator
 - Generates a random explorable 2d dungeon
 - Collectable items
 - Navigation with arrow keys
