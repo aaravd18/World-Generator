@@ -4,5 +4,5 @@
 - Navigation with arrow keys
 - Intelligent A* search pathfinding on mouse-click, avatar takes most efficient path to destination click
 - Multiple visibility/lighting modes
-- Written 100% in Java using IntelliJ. Run 
-
+- Written 100% in Java using IntelliJ and tested using JUnit. Run src/core/Main.java to start program
+ 
